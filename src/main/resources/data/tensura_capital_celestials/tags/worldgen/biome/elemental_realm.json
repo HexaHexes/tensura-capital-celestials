@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mysticism:fire_biome",
+    "mysticism:water_biome",
+    "mysticism:earth_biome",
+    "mysticism:wind_biome",
+    "mysticism:space_biome",
+    "mysticism:light_biome",
+    "mysticism:darkness_biome"
+  ]
+}
