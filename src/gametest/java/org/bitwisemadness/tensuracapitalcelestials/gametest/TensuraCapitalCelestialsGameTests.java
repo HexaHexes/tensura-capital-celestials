@@ -1,7 +1,7 @@
 package org.bitwisemadness.tensuracapitalcelestials.gametest;
 
-import net.minecraft.gametest.framework.GameTest;
 import net.minecraft.core.registries.Registries;
+import net.minecraft.gametest.framework.GameTest;
 import net.minecraft.gametest.framework.GameTestHelper;
 import net.minecraft.resources.ResourceLocation;
 import net.neoforged.neoforge.gametest.GameTestHolder;
