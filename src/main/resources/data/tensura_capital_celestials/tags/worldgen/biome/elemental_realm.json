@@ -1,12 +1,12 @@
 {
   "replace": false,
   "values": [
-    "mysticism:fire_biome",
-    "mysticism:water_biome",
-    "mysticism:earth_biome",
-    "mysticism:wind_biome",
-    "mysticism:space_biome",
-    "mysticism:light_biome",
-    "mysticism:darkness_biome"
+    { "id": "mysticism:fire_biome", "required": false },
+    { "id": "mysticism:water_biome", "required": false },
+    { "id": "mysticism:earth_biome", "required": false },
+    { "id": "mysticism:wind_biome", "required": false },
+    { "id": "mysticism:space_biome", "required": false },
+    { "id": "mysticism:light_biome", "required": false },
+    { "id": "mysticism:darkness_biome", "required": false }
   ]
 }
